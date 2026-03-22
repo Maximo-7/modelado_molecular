@@ -1,1 +1,3 @@
-extended_report/3-run/arq.trr
+**/*.trr
+extended_report/4-analysis/veloc.xvg
+T400/3-run/#cartoon.pdb.1#
